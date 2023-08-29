@@ -1,1 +1,1 @@
-git fetch --all
+echo "git fetch --all"
